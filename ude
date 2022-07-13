@@ -1,0 +1,37 @@
+devops:     joining of development and operations team, developers build softwares and then hand over to testing and quality engineers to test, 
+            then it is handed over   to operations team, they make it run in a production data center for people to use and they have to keep it up and running 24x7.
+
+
+
+docker:	
+
+
+
+containers:	its like an executable vm, where there is a code to run and all the things (system requirements called dependencies ) needed for that code 
+            or (software or application) to run smoothly. 
+
+
+		to containerize an application:: we have to pack everything (dependencies or libraries or modules  that the code/sw/applications needs into  a docker 			                                 image which would run as container. now our app/sw/code run in this portable container smoothly.
+		
+		a docker image is like a template and docker container is like a running instance of that template.
+		
+		
+advantages of containers over vms:   in a vm we can run an application, but there are uneccessary components in a vm like windows or linux (os),
+               			             applications that comes with the os (notepad, browsers, calculator, calender, other bloatwares etc). 
+                                     But in a container we are having only the necessary components (dependencies) that our app/code/sw needs, this saves lot of time,
+                                     memory space etc. 
+		
+		
+		containers are like a running process, (executable process) thats running on the host.
+		
+
+
+micro-service:  an applications is broken into smaller functioning components, each functional components (or Elements) are treated as a stand alone applications.
+      			these microservices can often times be packaged and run as containers, since they are independent elements.
+
+
+
+kubernetes:	    it is a docker scheduler or orchestrator.
+
+
+kubernetes cluster:	?
