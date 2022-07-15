@@ -2,4 +2,4 @@ pending:
 CACHING and layers
 changing image to latest version inside a dockerfile
 tag override
-
+run containers with different tags
