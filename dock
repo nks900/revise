@@ -4,3 +4,4 @@ changing image to latest version inside a dockerfile
 tagging image
 tag override
 run containers with different tags /// versioning images and containers
+pushing images n tags
