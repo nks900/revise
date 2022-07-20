@@ -7,5 +7,7 @@ run containers with different tags /// versioning images and containers
 pushing images n tags
 
 kodekloud docker lab, docker storage, entry point, networking ..
+-------------------------------------------------------------
+ENTRYPOINT override, 
 
 ==temporary hold====
