@@ -9,6 +9,7 @@ pushing images n tags
 kodekloud docker lab, docker storage, entry point, networking ..
 
 layered architecture
+copy on write mechanism
 -------------------------------------------------------------
 ENTRYPOINT override, 
 docker networking
